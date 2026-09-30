@@ -1,0 +1,6 @@
+#ifndef CFG_ANALYZER_DFG_BUILDER_H
+#define CFG_ANALYZER_DFG_BUILDER_H
+
+#include "dfg.h"
+
+#endif // CFG_ANALYZER_DFG_BUILDER_H

@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# Assuming the main executable is 'cfg-analyzer'
+./cfg-analyzer --test
